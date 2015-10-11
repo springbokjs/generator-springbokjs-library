@@ -1,0 +1,14 @@
+{
+  "name": "generator-springbokjs-library",
+  "version": "1.0.0",
+  "description": "springbokjs library generator",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.20.3"
+  }
+}

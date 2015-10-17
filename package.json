@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "springbokjs library generator",
   "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/springbokjs/generator-springbokjs-library/issues"
   },

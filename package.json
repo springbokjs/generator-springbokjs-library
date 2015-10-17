@@ -1,7 +1,13 @@
 {
   "name": "generator-springbokjs-library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "springbokjs library generator",
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/springbokjs/generator-springbokjs-library/issues"
+  },
+  "homepage": "https://github.com/springbokjs/generator-springbokjs-library#readme",
   "files": [
     "app"
   ],

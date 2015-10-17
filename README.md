@@ -3,7 +3,7 @@
 [See documentation on springbokjs-library](https://www.npmjs.com/package/springbokjs-library)
 
 ```
-npm install -g yo
+npm install -g yo generator-springbokjs-library
 yo springbokjs-library
 ```
 
